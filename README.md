@@ -61,7 +61,7 @@ Tello UDP video (`udp://0.0.0.0:11111`) → **OBS** → **VirtualCam** → **ORB
 | Palm (all fingers up)         | `takeoff`    | Entry to flight                     |
 | Call Me (thumb+pinky up)      | `land`       | Safe landing                        |
 | Thumbs Up                     | `forward 20` | Distances in cm                     |
-| Thumbs Down                   | `back 20`    |                                     |
+| Thumbs Down                   | `back 20`    | Reliable; paired with forward       |
 | Peace (index+middle)          | `cw 30`      | Yaw right in 30° steps              |
 | Okay (thumb–index loop)       | `ccw 30`     | Yaw left in 30° steps               |
 | Fist                          | `down 20`    | Altitude down                       |
