@@ -1,4 +1,4 @@
-# GesturePilot — Real-Time Hand-Gesture Drone Control with ORB-SLAM3 Safety Mapping
+ # GesturePilot — Real-Time Hand-Gesture Drone Control with ORB-SLAM3 Safety Mapping
 
 **RBD Lab, University of Haifa — Course: Project in Real-Time Systems (203.4724)**  
 **Authors:** Zahi Haddad, Rany Mattar • **Supervisor:** Prof. Dan Feldman
